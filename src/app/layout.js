@@ -21,6 +21,7 @@ export default function RootLayout({ children }) {
         <nav className='flex'>
           <div className='mr-6'><a href='/'>Home</a></div>
           <div className='mr-6'><a href='about'>About</a></div>
+          <div className='mr-6'><a href='blog'>Blog</a></div>
           <div className='mr-6'><a href='contact'>Contact</a></div>
         </nav>
       </header>
